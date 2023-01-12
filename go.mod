@@ -1,3 +1,3 @@
-module github.com/cbergoon/merkletree
+module github.com/phantom-1123/merkletree
 
-go 1.12
+go 1.19
